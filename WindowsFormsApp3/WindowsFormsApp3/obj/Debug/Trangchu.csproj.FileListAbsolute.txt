@@ -1,0 +1,52 @@
+D:\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+D:\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+D:\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+D:\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Trangchu.csprojAssemblyReference.cache
+D:\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.DangNhap.resources
+D:\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Trangchu.resources
+D:\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+D:\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Trangchu.csproj.GenerateResource.cache
+D:\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Trangchu.csproj.CoreCompileInputs.cache
+D:\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+D:\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\nunu\OneDrive\Máy tính\New folder\Phan Tich Thiet Ke He Thong\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\nunu\OneDrive\Máy tính\New folder\Phan Tich Thiet Ke He Thong\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\nunu\OneDrive\Máy tính\New folder\Phan Tich Thiet Ke He Thong\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\nunu\OneDrive\Máy tính\New folder\Phan Tich Thiet Ke He Thong\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Trangchu.csprojAssemblyReference.cache
+C:\Users\nunu\OneDrive\Máy tính\New folder\Phan Tich Thiet Ke He Thong\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.DangKy.resources
+C:\Users\nunu\OneDrive\Máy tính\New folder\Phan Tich Thiet Ke He Thong\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.DangNhap.resources
+C:\Users\nunu\OneDrive\Máy tính\New folder\Phan Tich Thiet Ke He Thong\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Trangchu.resources
+C:\Users\nunu\OneDrive\Máy tính\New folder\Phan Tich Thiet Ke He Thong\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\nunu\OneDrive\Máy tính\New folder\Phan Tich Thiet Ke He Thong\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Trangchu.csproj.GenerateResource.cache
+C:\Users\nunu\OneDrive\Máy tính\New folder\Phan Tich Thiet Ke He Thong\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Trangchu.csproj.CoreCompileInputs.cache
+C:\Users\nunu\OneDrive\Máy tính\New folder\Phan Tich Thiet Ke He Thong\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\nunu\OneDrive\Máy tính\New folder\Phan Tich Thiet Ke He Thong\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\nunu\OneDrive\Máy tính\New folder\Phan Tich Thiet Ke He Thong\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Quanlytaikhoan.resources
+C:\Users\HP\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\HP\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\HP\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\HP\Downloads\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Trangchu.csprojAssemblyReference.cache
+C:\Users\HP\Downloads\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.DangKy.resources
+C:\Users\HP\Downloads\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.DangNhap.resources
+C:\Users\HP\Downloads\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Quanlytaikhoan.resources
+C:\Users\HP\Downloads\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Trangchu.resources
+C:\Users\HP\Downloads\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\HP\Downloads\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Trangchu.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Trangchu.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\HP\Downloads\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\LENOVO\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\LENOVO\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\LENOVO\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\LENOVO\Downloads\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Trangchu.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.DangKy.resources
+C:\Users\LENOVO\Downloads\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.DangNhap.resources
+C:\Users\LENOVO\Downloads\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Quanlytaikhoan.resources
+C:\Users\LENOVO\Downloads\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Trangchu.resources
+C:\Users\LENOVO\Downloads\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\LENOVO\Downloads\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Trangchu.csproj.GenerateResource.cache
+C:\Users\LENOVO\Downloads\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Trangchu.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\LENOVO\Downloads\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\LENOVO\Downloads\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Baocao.resources
+C:\Users\LENOVO\Downloads\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.QuanLyHangHoa.resources
